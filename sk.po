@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:company.employee,projects:"
+msgid "Projects"
+msgstr "Projekty"
+
+msgctxt "field:project.work,assigned:"
+msgid "Assigned"
+msgstr "Priradený"
