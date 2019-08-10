@@ -1,4 +1,4 @@
-Installing trytond_project_revenue
+Installing trytond_project_employee
 ==================================
 
 Prerequisites
@@ -15,7 +15,7 @@ Prerequisites
 Installation
 ------------
 
-Once you've downloaded and unpacked the trytond_project_revenue source release, enter the
+Once you've downloaded and unpacked the trytond_project_employee source release, enter the
 directory where the archive was unpacked, and run:
 
     python setup.py install
@@ -31,4 +31,4 @@ documentation:
   http://docs.python.org/inst/inst.html
 
 To use without installation, extract the archive into ``trytond/modules`` with
-the directory name project_revenue.
+the directory name project_employee.

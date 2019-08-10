@@ -1,7 +1,7 @@
-trytond_project_revenue
+trytond_project_employee
 =======================
 
-The project_revenue module of the Tryton application platform.
+The project_employee module of the Tryton application platform.
 
 Installing
 ----------
